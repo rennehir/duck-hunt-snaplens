@@ -1,0 +1,2178 @@
+{
+    "lens_id": "",
+    "version": "0",
+    "lastChanged": "1519839113298",
+    "preview": "icon.png",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "major": "1",
+            "minor": "0",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "major": "1",
+            "minor": "0",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Chick_FBX [REMOVE_ME]"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "BIRD_ROOT_JNT"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "BIRD_ROOT_JNT_2"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "COG_JNT"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "COG_JNT_2"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "back_JNT"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "back_JNT_2"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "beak_01_JNT"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "beak_01_JNT_2"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "beak_02_JNT"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "beak_02_JNT_2"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "chest_JNT"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "chest_JNT_2"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "hair_top_01_JNT"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "hair_top_01_JNT_2"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "hair_top_02_JNT"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "hair_top_02_JNT_2"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "hair_top_03_JNT"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "hair_top_03_JNT_2"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "hair_top_04_JNT"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "hair_top_04_JNT_2"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "head_JNT"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "head_JNT_2"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "head_top_JNT"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "head_top_JNT_2"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "hips_JNT"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "hips_JNT_2"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "left_Clavicle_JNT"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "left_Clavicle_JNT_2"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "left_foot_JNT"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "left_foot_JNT_2"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "left_knee_JNT"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "left_knee_JNT_2"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "left_leg_JNT"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "left_leg_JNT_2"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "left_leg_mid_JNT"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "left_leg_mid_JNT_2"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "left_lower_knee_JNT"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "left_lower_knee_JNT_2"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "left_toe_JNT"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "left_toe_JNT_2"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "left_wing_01_JNT"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "left_wing_01_JNT_2"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "left_wing_02_JNT"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "left_wing_02_JNT_2"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "left_wing_03_JNT"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "left_wing_03_JNT_2"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "left_wing_04_JNT"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "left_wing_04_JNT_2"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "left_wing_05_JNT"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "left_wing_05_JNT_2"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "right_Clavicle_JNT"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "right_Clavicle_JNT_2"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "right_foot_JNT"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "right_foot_JNT_2"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "right_knee_JNT"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "right_knee_JNT_2"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "right_leg_JNT"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "right_leg_JNT_2"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "right_leg_mid_JNT"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "right_leg_mid_JNT_2"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "right_lower_knee_JNT"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "right_lower_knee_JNT_2"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "right_toe_JNT"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "right_toe_JNT_2"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "right_wing_01_JNT"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "right_wing_01_JNT_2"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "right_wing_02_JNT"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "right_wing_02_JNT_2"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "right_wing_03_JNT"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "right_wing_03_JNT_2"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "right_wing_04_JNT"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "right_wing_04_JNT_2"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "right_wing_05_JNT"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Animations",
+                        "right_wing_05_JNT_2"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Meshes"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Meshes",
+                        "chick_lo"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Textures"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Textures",
+                        "chick_lo_defaultMat1_base.png"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Textures",
+                        "chick_lo_defaultMat1_materialParams"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Textures",
+                        "chick_lo_defaultMat1_normal.png"
+                    ],
+                    [
+                        "Scripts",
+                        "IdleAnim"
+                    ],
+                    [
+                        "Scripts",
+                        "LookAroundController"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "camera_output"
+                    ],
+                    [
+                        "Textures",
+                        "device_camera_texture"
+                    ],
+                    [
+                        "Textures",
+                        "echopark_diff"
+                    ],
+                    [
+                        "Textures",
+                        "echopark_spec"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1509391488324938:106424",
+                    "1509391488397727:106472",
+                    "1509391702624690:120157",
+                    "1509391767906728:124221",
+                    "1509391767906958:124251",
+                    "1509391803014447:128635",
+                    "1509391810251547:133286"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "840288641b4cc6f2c5a538b3ed9fe0ae",
+            "icon_path": "icon.png",
+            "hints": [
+                "lens_hint_look_around"
+            ],
+            "lens": "Look Around"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1508547645006260:316938",
+                    "1509391488463208:107288"
+                ]
+            ]
+        }
+    },
+    "model": {
+        "ResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "3"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1498868868171510:1508",
+                    "name": "\/Resources\/Resource13.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1499276508720146:1345",
+                    "name": "\/Resources\/Resource14.js",
+                    "sourceFilePath": "\/Users\/peter.javidpour\/Snapchat\/studio3d-support\/helper_scripts\/PlayAnimation.js",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "177",
+                    "uid": "1509391488395665:106448",
+                    "name": "\/Resources\/Resource177.png",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "relative": "C:\/Users\/vmanlapaz\/Documents\/01_STUDIO3D\/04_Chicken\/MODEL\/chick_lo_defaultMat1_base.png",
+                        "absolute": "C:\/Users\/vmanlapaz\/Documents\/01_STUDIO3D\/04_Chicken\/MODEL\/chick_lo_defaultMat1_base.png"
+                    },
+                    "flags": "5",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "178",
+                    "uid": "1509391488397410:106457",
+                    "name": "\/Resources\/Resource178.png",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "relative": "C:\/Users\/vmanlapaz\/Documents\/01_STUDIO3D\/04_Chicken\/MODEL\/chick_lo_defaultMat1_normal.png",
+                        "absolute": "C:\/Users\/vmanlapaz\/Documents\/01_STUDIO3D\/04_Chicken\/MODEL\/chick_lo_defaultMat1_normal.png"
+                    },
+                    "flags": "5",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "182",
+                    "uid": "1509391488335439:106439",
+                    "name": "\/Resources\/Resource182.mesh",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "chick_lo"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "183",
+                    "uid": "1509391488446273:107078",
+                    "name": "\/Resources\/Resource183",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "left_knee_JNT",
+                        "animationLayer": "FAST_FLIGHT_1_29"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "184",
+                    "uid": "1509391488445491:107070",
+                    "name": "\/Resources\/Resource184",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "left_knee_JNT",
+                        "animationLayer": "SLOW_FLIGHT_1_39"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "185",
+                    "uid": "1509391488447758:107100",
+                    "name": "\/Resources\/Resource185",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "left_lower_knee_JNT",
+                        "animationLayer": "FAST_FLIGHT_1_29"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "186",
+                    "uid": "1509391488446998:107092",
+                    "name": "\/Resources\/Resource186",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "left_lower_knee_JNT",
+                        "animationLayer": "SLOW_FLIGHT_1_39"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "187",
+                    "uid": "1509391488444762:107056",
+                    "name": "\/Resources\/Resource187",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "left_leg_mid_JNT",
+                        "animationLayer": "FAST_FLIGHT_1_29"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "188",
+                    "uid": "1509391488443816:107048",
+                    "name": "\/Resources\/Resource188",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "left_leg_mid_JNT",
+                        "animationLayer": "SLOW_FLIGHT_1_39"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "189",
+                    "uid": "1509391488455821:107210",
+                    "name": "\/Resources\/Resource189",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "right_knee_JNT",
+                        "animationLayer": "FAST_FLIGHT_1_29"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "190",
+                    "uid": "1509391488455016:107202",
+                    "name": "\/Resources\/Resource190",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "right_knee_JNT",
+                        "animationLayer": "SLOW_FLIGHT_1_39"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "191",
+                    "uid": "1509391488452569:107166",
+                    "name": "\/Resources\/Resource191",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "right_leg_JNT",
+                        "animationLayer": "FAST_FLIGHT_1_29"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "192",
+                    "uid": "1509391488451804:107158",
+                    "name": "\/Resources\/Resource192",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "right_leg_JNT",
+                        "animationLayer": "SLOW_FLIGHT_1_39"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "193",
+                    "uid": "1509391488406691:106594",
+                    "name": "\/Resources\/Resource193",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "head_top_JNT",
+                        "animationLayer": "FAST_FLIGHT_1_29"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "194",
+                    "uid": "1509391488405914:106586",
+                    "name": "\/Resources\/Resource194",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "head_top_JNT",
+                        "animationLayer": "SLOW_FLIGHT_1_39"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "195",
+                    "uid": "1509391488408257:106616",
+                    "name": "\/Resources\/Resource195",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "hair_top_01_JNT",
+                        "animationLayer": "FAST_FLIGHT_1_29"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "196",
+                    "uid": "1509391488407399:106608",
+                    "name": "\/Resources\/Resource196",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "hair_top_01_JNT",
+                        "animationLayer": "SLOW_FLIGHT_1_39"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "197",
+                    "uid": "1509391488401946:106528",
+                    "name": "\/Resources\/Resource197",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "back_JNT",
+                        "animationLayer": "FAST_FLIGHT_1_29"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "198",
+                    "uid": "1509391488401191:106520",
+                    "name": "\/Resources\/Resource198",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "back_JNT",
+                        "animationLayer": "SLOW_FLIGHT_1_39"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "199",
+                    "uid": "1509391488403519:106550",
+                    "name": "\/Resources\/Resource199",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "chest_JNT",
+                        "animationLayer": "FAST_FLIGHT_1_29"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "200",
+                    "uid": "1509391488402652:106542",
+                    "name": "\/Resources\/Resource200",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "chest_JNT",
+                        "animationLayer": "SLOW_FLIGHT_1_39"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "201",
+                    "uid": "1509391488405142:106572",
+                    "name": "\/Resources\/Resource201",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "head_JNT",
+                        "animationLayer": "FAST_FLIGHT_1_29"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "202",
+                    "uid": "1509391488404367:106564",
+                    "name": "\/Resources\/Resource202",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "head_JNT",
+                        "animationLayer": "SLOW_FLIGHT_1_39"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "203",
+                    "uid": "1509391488400474:106506",
+                    "name": "\/Resources\/Resource203",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "COG_JNT",
+                        "animationLayer": "FAST_FLIGHT_1_29"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "204",
+                    "uid": "1509391488399693:106498",
+                    "name": "\/Resources\/Resource204",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "COG_JNT",
+                        "animationLayer": "SLOW_FLIGHT_1_39"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "205",
+                    "uid": "1509391488433723:106924",
+                    "name": "\/Resources\/Resource205",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "right_wing_04_JNT",
+                        "animationLayer": "FAST_FLIGHT_1_29"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "206",
+                    "uid": "1509391488432278:106916",
+                    "name": "\/Resources\/Resource206",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "right_wing_04_JNT",
+                        "animationLayer": "SLOW_FLIGHT_1_39"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "207",
+                    "uid": "1509391488423179:106814",
+                    "name": "\/Resources\/Resource207",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "left_wing_05_JNT",
+                        "animationLayer": "FAST_FLIGHT_1_29"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "208",
+                    "uid": "1509391488422369:106806",
+                    "name": "\/Resources\/Resource208",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "left_wing_05_JNT",
+                        "animationLayer": "SLOW_FLIGHT_1_39"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "209",
+                    "uid": "1509391488421474:106792",
+                    "name": "\/Resources\/Resource209",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "left_wing_04_JNT",
+                        "animationLayer": "FAST_FLIGHT_1_29"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "210",
+                    "uid": "1509391488420584:106784",
+                    "name": "\/Resources\/Resource210",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "left_wing_04_JNT",
+                        "animationLayer": "SLOW_FLIGHT_1_39"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "211",
+                    "uid": "1509391488429162:106880",
+                    "name": "\/Resources\/Resource211",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "right_wing_02_JNT",
+                        "animationLayer": "FAST_FLIGHT_1_29"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "212",
+                    "uid": "1509391488428231:106872",
+                    "name": "\/Resources\/Resource212",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "right_wing_02_JNT",
+                        "animationLayer": "SLOW_FLIGHT_1_39"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "213",
+                    "uid": "1509391488411374:106660",
+                    "name": "\/Resources\/Resource213",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "hair_top_03_JNT",
+                        "animationLayer": "FAST_FLIGHT_1_29"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "214",
+                    "uid": "1509391488410529:106652",
+                    "name": "\/Resources\/Resource214",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "hair_top_03_JNT",
+                        "animationLayer": "SLOW_FLIGHT_1_39"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "215",
+                    "uid": "1509391488435401:106946",
+                    "name": "\/Resources\/Resource215",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "right_wing_05_JNT",
+                        "animationLayer": "FAST_FLIGHT_1_29"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "216",
+                    "uid": "1509391488434564:106938",
+                    "name": "\/Resources\/Resource216",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "right_wing_05_JNT",
+                        "animationLayer": "SLOW_FLIGHT_1_39"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "217",
+                    "uid": "1509391488419578:106770",
+                    "name": "\/Resources\/Resource217",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "left_wing_03_JNT",
+                        "animationLayer": "FAST_FLIGHT_1_29"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "218",
+                    "uid": "1509391488418683:106762",
+                    "name": "\/Resources\/Resource218",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "left_wing_03_JNT",
+                        "animationLayer": "SLOW_FLIGHT_1_39"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "219",
+                    "uid": "1509391488431078:106902",
+                    "name": "\/Resources\/Resource219",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "right_wing_03_JNT",
+                        "animationLayer": "FAST_FLIGHT_1_29"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "220",
+                    "uid": "1509391488429929:106894",
+                    "name": "\/Resources\/Resource220",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "right_wing_03_JNT",
+                        "animationLayer": "SLOW_FLIGHT_1_39"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "221",
+                    "uid": "1509391488440492:107012",
+                    "name": "\/Resources\/Resource221",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "hips_JNT",
+                        "animationLayer": "FAST_FLIGHT_1_29"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "222",
+                    "uid": "1509391488439720:107004",
+                    "name": "\/Resources\/Resource222",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "hips_JNT",
+                        "animationLayer": "SLOW_FLIGHT_1_39"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "223",
+                    "uid": "1509391488427339:106858",
+                    "name": "\/Resources\/Resource223",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "right_wing_01_JNT",
+                        "animationLayer": "FAST_FLIGHT_1_29"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "224",
+                    "uid": "1509391488426059:106850",
+                    "name": "\/Resources\/Resource224",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "right_wing_01_JNT",
+                        "animationLayer": "SLOW_FLIGHT_1_39"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "225",
+                    "uid": "1509391488442387:107034",
+                    "name": "\/Resources\/Resource225",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "left_leg_JNT",
+                        "animationLayer": "FAST_FLIGHT_1_29"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "226",
+                    "uid": "1509391488441342:107026",
+                    "name": "\/Resources\/Resource226",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "left_leg_JNT",
+                        "animationLayer": "SLOW_FLIGHT_1_39"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "227",
+                    "uid": "1509391488417828:106748",
+                    "name": "\/Resources\/Resource227",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "left_wing_02_JNT",
+                        "animationLayer": "FAST_FLIGHT_1_29"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "228",
+                    "uid": "1509391488416880:106740",
+                    "name": "\/Resources\/Resource228",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "left_wing_02_JNT",
+                        "animationLayer": "SLOW_FLIGHT_1_39"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "229",
+                    "uid": "1509391488409748:106638",
+                    "name": "\/Resources\/Resource229",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "hair_top_02_JNT",
+                        "animationLayer": "FAST_FLIGHT_1_29"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "230",
+                    "uid": "1509391488408983:106630",
+                    "name": "\/Resources\/Resource230",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "hair_top_02_JNT",
+                        "animationLayer": "SLOW_FLIGHT_1_39"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "231",
+                    "uid": "1509391488437355:106968",
+                    "name": "\/Resources\/Resource231",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "beak_01_JNT",
+                        "animationLayer": "FAST_FLIGHT_1_29"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "232",
+                    "uid": "1509391488436383:106960",
+                    "name": "\/Resources\/Resource232",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "beak_01_JNT",
+                        "animationLayer": "SLOW_FLIGHT_1_39"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "233",
+                    "uid": "1509391488415925:106726",
+                    "name": "\/Resources\/Resource233",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "left_wing_01_JNT",
+                        "animationLayer": "FAST_FLIGHT_1_29"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "234",
+                    "uid": "1509391488415151:106718",
+                    "name": "\/Resources\/Resource234",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "left_wing_01_JNT",
+                        "animationLayer": "SLOW_FLIGHT_1_39"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "235",
+                    "uid": "1509391488412897:106682",
+                    "name": "\/Resources\/Resource235",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "hair_top_04_JNT",
+                        "animationLayer": "FAST_FLIGHT_1_29"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "236",
+                    "uid": "1509391488412133:106674",
+                    "name": "\/Resources\/Resource236",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "hair_top_04_JNT",
+                        "animationLayer": "SLOW_FLIGHT_1_39"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "237",
+                    "uid": "1509391488450989:107144",
+                    "name": "\/Resources\/Resource237",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "left_toe_JNT",
+                        "animationLayer": "FAST_FLIGHT_1_29"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "238",
+                    "uid": "1509391488450206:107136",
+                    "name": "\/Resources\/Resource238",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "left_toe_JNT",
+                        "animationLayer": "SLOW_FLIGHT_1_39"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "239",
+                    "uid": "1509391488449290:107122",
+                    "name": "\/Resources\/Resource239",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "left_foot_JNT",
+                        "animationLayer": "FAST_FLIGHT_1_29"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "240",
+                    "uid": "1509391488448497:107114",
+                    "name": "\/Resources\/Resource240",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "left_foot_JNT",
+                        "animationLayer": "SLOW_FLIGHT_1_39"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "241",
+                    "uid": "1509391488398976:106484",
+                    "name": "\/Resources\/Resource241",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "BIRD_ROOT_JNT",
+                        "animationLayer": "FAST_FLIGHT_1_29"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "242",
+                    "uid": "1509391488398047:106476",
+                    "name": "\/Resources\/Resource242",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "BIRD_ROOT_JNT",
+                        "animationLayer": "SLOW_FLIGHT_1_39"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "243",
+                    "uid": "1509391488424955:106836",
+                    "name": "\/Resources\/Resource243",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "right_Clavicle_JNT",
+                        "animationLayer": "FAST_FLIGHT_1_29"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "244",
+                    "uid": "1509391488424047:106828",
+                    "name": "\/Resources\/Resource244",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "right_Clavicle_JNT",
+                        "animationLayer": "SLOW_FLIGHT_1_39"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "245",
+                    "uid": "1509391488414438:106704",
+                    "name": "\/Resources\/Resource245",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "left_Clavicle_JNT",
+                        "animationLayer": "FAST_FLIGHT_1_29"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "246",
+                    "uid": "1509391488413638:106696",
+                    "name": "\/Resources\/Resource246",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "left_Clavicle_JNT",
+                        "animationLayer": "SLOW_FLIGHT_1_39"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "247",
+                    "uid": "1509391488438997:106990",
+                    "name": "\/Resources\/Resource247",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "beak_02_JNT",
+                        "animationLayer": "FAST_FLIGHT_1_29"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "248",
+                    "uid": "1509391488438246:106982",
+                    "name": "\/Resources\/Resource248",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "beak_02_JNT",
+                        "animationLayer": "SLOW_FLIGHT_1_39"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "249",
+                    "uid": "1509391488459203:107254",
+                    "name": "\/Resources\/Resource249",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "right_foot_JNT",
+                        "animationLayer": "FAST_FLIGHT_1_29"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "250",
+                    "uid": "1509391488458203:107246",
+                    "name": "\/Resources\/Resource250",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "right_foot_JNT",
+                        "animationLayer": "SLOW_FLIGHT_1_39"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "251",
+                    "uid": "1509391488461921:107276",
+                    "name": "\/Resources\/Resource251",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "right_toe_JNT",
+                        "animationLayer": "FAST_FLIGHT_1_29"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "252",
+                    "uid": "1509391488460399:107268",
+                    "name": "\/Resources\/Resource252",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "right_toe_JNT",
+                        "animationLayer": "SLOW_FLIGHT_1_39"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "253",
+                    "uid": "1509391488457434:107232",
+                    "name": "\/Resources\/Resource253",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "right_lower_knee_JNT",
+                        "animationLayer": "FAST_FLIGHT_1_29"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "254",
+                    "uid": "1509391488456625:107224",
+                    "name": "\/Resources\/Resource254",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "right_lower_knee_JNT",
+                        "animationLayer": "SLOW_FLIGHT_1_39"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "255",
+                    "uid": "1509391488454213:107188",
+                    "name": "\/Resources\/Resource255",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "right_leg_mid_JNT",
+                        "animationLayer": "FAST_FLIGHT_1_29"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "256",
+                    "uid": "1509391488453393:107180",
+                    "name": "\/Resources\/Resource256",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/c_r_4.fbx",
+                    "additionalProperties": {
+                        "name": "right_leg_mid_JNT",
+                        "animationLayer": "SLOW_FLIGHT_1_39"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "258",
+                    "uid": "1509395930793311:141115",
+                    "name": "\/Resources\/Resource258.png",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Downloads\/chicken_asset\/chick_tex_01\/chick_lo_defaultMat1_materialParams.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "260",
+                    "uid": "1509398077315854:111549",
+                    "name": "\/Resources\/Resource260.png",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Library\/Caches\/Snap\/Studio3D\/envmaps\/echopark_1966534313_diff.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "261",
+                    "uid": "1509398077334854:111558",
+                    "name": "\/Resources\/Resource261.png",
+                    "sourceFilePath": "\/Users\/jonathan.solichin\/Library\/Caches\/Snap\/Studio3D\/envmaps\/echopark_1966534313_spec.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "262",
+                    "uid": "1511402108303684:244799",
+                    "name": "\/Resources\/Resource262",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "263",
+                    "uid": "1519838634332826:204331",
+                    "name": "\/Resources\/Resource263.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                }
+            ]
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1509126293143890:77680",
+                "1": "1509126293144067:77682",
+                "2": "1509391488324938:106424",
+                "3": "1509391488325156:106432",
+                "4": "1509391488397727:106472",
+                "5": "1509391488399583:106494",
+                "6": "1509391488401088:106516",
+                "7": "1509391488402546:106538",
+                "8": "1509391488404194:106560",
+                "9": "1509391488405794:106582",
+                "10": "1509391488407291:106604",
+                "11": "1509391488408877:106626",
+                "12": "1509391488410363:106648",
+                "13": "1509391488412018:106670",
+                "14": "1509391488413517:106692",
+                "15": "1509391488415043:106714",
+                "16": "1509391488416750:106736",
+                "17": "1509391488418561:106758",
+                "18": "1509391488420447:106780",
+                "19": "1509391488422240:106802",
+                "20": "1509391488423924:106824",
+                "21": "1509391488425858:106846",
+                "22": "1509391488428054:106868",
+                "23": "1509391488429797:106890",
+                "24": "1509391488432133:106912",
+                "25": "1509391488434404:106934",
+                "26": "1509391488436235:106956",
+                "27": "1509391488438062:106978",
+                "28": "1509391488439607:107000",
+                "29": "1509391488441222:107022",
+                "30": "1509391488443545:107044",
+                "31": "1509391488445373:107066",
+                "32": "1509391488446885:107088",
+                "33": "1509391488448385:107110",
+                "34": "1509391488450087:107132",
+                "35": "1509391488451624:107154",
+                "36": "1509391488453261:107176",
+                "37": "1509391488454895:107198",
+                "38": "1509391488456473:107220",
+                "39": "1509391488458079:107242",
+                "40": "1509391488459986:107264"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                }
+            ]
+        },
+        "EffectsComponent": {
+            "6": "",
+            "7": ""
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn"
+        }
+    },
+    "controller": {
+        "ResourceController": {
+            "tree": {
+                "name": "Root",
+                "groups": [
+                    {
+                        "name": "Scripts",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "LookAroundController",
+                                "resourceId": "13",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "IdleAnim",
+                                "resourceId": "14",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "Move",
+                                "resourceId": "263",
+                                "extension": "js"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Textures",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "camera_output",
+                                "resourceId": "1",
+                                "extension": ""
+                            },
+                            {
+                                "name": "device_camera_texture",
+                                "resourceId": "2",
+                                "extension": ""
+                            },
+                            {
+                                "name": "echopark_diff",
+                                "resourceId": "260",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "echopark_spec",
+                                "resourceId": "261",
+                                "extension": "png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chick_FBX [REMOVE_ME]",
+                        "groups": [
+                            {
+                                "name": "Textures",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "chick_lo_defaultMat1_base.png",
+                                        "resourceId": "177",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "chick_lo_defaultMat1_normal.png",
+                                        "resourceId": "178",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "chick_lo_defaultMat1_materialParams",
+                                        "resourceId": "258",
+                                        "extension": "png"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Materials",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "chick_pbr",
+                                        "resourceId": "262",
+                                        "extension": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Meshes",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "chick_lo",
+                                        "resourceId": "182",
+                                        "extension": "mesh"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Animations",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "BIRD_ROOT_JNT_2",
+                                        "resourceId": "242",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "BIRD_ROOT_JNT",
+                                        "resourceId": "241",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "COG_JNT_2",
+                                        "resourceId": "204",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "COG_JNT",
+                                        "resourceId": "203",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "back_JNT_2",
+                                        "resourceId": "198",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "back_JNT",
+                                        "resourceId": "197",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "chest_JNT_2",
+                                        "resourceId": "200",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "chest_JNT",
+                                        "resourceId": "199",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "head_JNT_2",
+                                        "resourceId": "202",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "head_JNT",
+                                        "resourceId": "201",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "head_top_JNT_2",
+                                        "resourceId": "194",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "head_top_JNT",
+                                        "resourceId": "193",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "hair_top_01_JNT_2",
+                                        "resourceId": "196",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "hair_top_01_JNT",
+                                        "resourceId": "195",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "hair_top_02_JNT_2",
+                                        "resourceId": "230",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "hair_top_02_JNT",
+                                        "resourceId": "229",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "hair_top_03_JNT_2",
+                                        "resourceId": "214",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "hair_top_03_JNT",
+                                        "resourceId": "213",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "hair_top_04_JNT_2",
+                                        "resourceId": "236",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "hair_top_04_JNT",
+                                        "resourceId": "235",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "left_Clavicle_JNT_2",
+                                        "resourceId": "246",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "left_Clavicle_JNT",
+                                        "resourceId": "245",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "left_wing_01_JNT_2",
+                                        "resourceId": "234",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "left_wing_01_JNT",
+                                        "resourceId": "233",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "left_wing_02_JNT_2",
+                                        "resourceId": "228",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "left_wing_02_JNT",
+                                        "resourceId": "227",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "left_wing_03_JNT_2",
+                                        "resourceId": "218",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "left_wing_03_JNT",
+                                        "resourceId": "217",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "left_wing_04_JNT_2",
+                                        "resourceId": "210",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "left_wing_04_JNT",
+                                        "resourceId": "209",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "left_wing_05_JNT_2",
+                                        "resourceId": "208",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "left_wing_05_JNT",
+                                        "resourceId": "207",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "right_Clavicle_JNT_2",
+                                        "resourceId": "244",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "right_Clavicle_JNT",
+                                        "resourceId": "243",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "right_wing_01_JNT_2",
+                                        "resourceId": "224",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "right_wing_01_JNT",
+                                        "resourceId": "223",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "right_wing_02_JNT_2",
+                                        "resourceId": "212",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "right_wing_02_JNT",
+                                        "resourceId": "211",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "right_wing_03_JNT_2",
+                                        "resourceId": "220",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "right_wing_03_JNT",
+                                        "resourceId": "219",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "right_wing_04_JNT_2",
+                                        "resourceId": "206",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "right_wing_04_JNT",
+                                        "resourceId": "205",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "right_wing_05_JNT_2",
+                                        "resourceId": "216",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "right_wing_05_JNT",
+                                        "resourceId": "215",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "beak_01_JNT_2",
+                                        "resourceId": "232",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "beak_01_JNT",
+                                        "resourceId": "231",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "beak_02_JNT_2",
+                                        "resourceId": "248",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "beak_02_JNT",
+                                        "resourceId": "247",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "hips_JNT_2",
+                                        "resourceId": "222",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "hips_JNT",
+                                        "resourceId": "221",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "left_leg_JNT_2",
+                                        "resourceId": "226",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "left_leg_JNT",
+                                        "resourceId": "225",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "left_leg_mid_JNT_2",
+                                        "resourceId": "188",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "left_leg_mid_JNT",
+                                        "resourceId": "187",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "left_knee_JNT_2",
+                                        "resourceId": "184",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "left_knee_JNT",
+                                        "resourceId": "183",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "left_lower_knee_JNT_2",
+                                        "resourceId": "186",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "left_lower_knee_JNT",
+                                        "resourceId": "185",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "left_foot_JNT_2",
+                                        "resourceId": "240",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "left_foot_JNT",
+                                        "resourceId": "239",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "left_toe_JNT_2",
+                                        "resourceId": "238",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "left_toe_JNT",
+                                        "resourceId": "237",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "right_leg_JNT_2",
+                                        "resourceId": "192",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "right_leg_JNT",
+                                        "resourceId": "191",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "right_leg_mid_JNT_2",
+                                        "resourceId": "256",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "right_leg_mid_JNT",
+                                        "resourceId": "255",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "right_knee_JNT_2",
+                                        "resourceId": "190",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "right_knee_JNT",
+                                        "resourceId": "189",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "right_lower_knee_JNT_2",
+                                        "resourceId": "254",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "right_lower_knee_JNT",
+                                        "resourceId": "253",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "right_foot_JNT_2",
+                                        "resourceId": "250",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "right_foot_JNT",
+                                        "resourceId": "249",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "right_toe_JNT_2",
+                                        "resourceId": "252",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "right_toe_JNT",
+                                        "resourceId": "251",
+                                        "extension": ""
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": ""
+                    }
+                ],
+                "resources": ""
+            },
+            "publicAssets": [
+                {
+                    "id": "13",
+                    "path": "Scripts\/LookAroundController.js"
+                },
+                {
+                    "id": "14",
+                    "path": "Scripts\/IdleAnim.js"
+                },
+                {
+                    "id": "177",
+                    "path": "Chick_FBX [REMOVE_ME]\/Textures\/chick_lo_defaultMat1_base.png"
+                },
+                {
+                    "id": "178",
+                    "path": "Chick_FBX [REMOVE_ME]\/Textures\/chick_lo_defaultMat1_normal.png"
+                },
+                {
+                    "id": "182",
+                    "path": "Chick_FBX [REMOVE_ME]\/Meshes\/chick_lo.mesh"
+                },
+                {
+                    "id": "258",
+                    "path": "Chick_FBX [REMOVE_ME]\/Textures\/chick_lo_defaultMat1_materialParams.png"
+                },
+                {
+                    "id": "260",
+                    "path": "Textures\/echopark_diff.png"
+                },
+                {
+                    "id": "261",
+                    "path": "Textures\/echopark_spec.png"
+                },
+                {
+                    "id": "263",
+                    "path": "Scripts\/Move.js"
+                }
+            ]
+        }
+    }
+}
