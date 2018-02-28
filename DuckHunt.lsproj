@@ -1,7 +1,7 @@
 {
     "lens_id": "",
     "version": "0",
-    "lastChanged": "1519843960630",
+    "lastChanged": "1519845345262",
     "preview": "icon.png",
     "isReadOnly": "false",
     "studioVersion": {
@@ -1685,6 +1685,86 @@
                     "flags": "1",
                     "type": "1",
                     "subtype": "0"
+                },
+                {
+                    "resId": "282",
+                    "uid": "1519844539092297:260400",
+                    "name": "Orthographic Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "284",
+                    "uid": "1519844539207206:260441",
+                    "name": "\/Resources\/Resource284",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "285",
+                    "uid": "1519844862221857:17741",
+                    "name": "\/Resources\/Resource284",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "286",
+                    "uid": "1519844865183397:20103",
+                    "name": "\/Resources\/Resource284",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "287",
+                    "uid": "1519845300591187:68311",
+                    "name": "\/Resources\/Resource284",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "288",
+                    "uid": "1519845303774800:70717",
+                    "name": "\/Resources\/Resource284",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
                 }
             ]
         },
@@ -1731,7 +1811,14 @@
                 "38": "1509391488456473:107220",
                 "39": "1509391488458079:107242",
                 "40": "1509391488459986:107264",
-                "41": "1519843315300519:172427"
+                "41": "1519843315300519:172427",
+                "42": "1519844539002349:260311",
+                "43": "1519844539098296:260409",
+                "44": "1519844539104255:260413",
+                "45": "1519844862221660:17731",
+                "46": "1519844865183102:20093",
+                "47": "1519845300590899:68301",
+                "48": "1519845303774623:70707"
             }
         },
         "LayerComponent": {
@@ -2297,6 +2384,11 @@
                     {
                         "name": "Unlit",
                         "resourceId": "280",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Orthographic Camera Output_3",
+                        "resourceId": "282",
                         "extension": ""
                     }
                 ]
