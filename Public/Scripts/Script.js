@@ -1,6 +1,15 @@
 // -----JS CODE-----
 // @input SceneObject item
 
+var birdsTapped = 0;
+// hideNumbers();
+
+function hideNumbers () {
+    for (var i = 0; i < script.numbers.length; i++) {
+        script.numbers[i].enabled = false;
+    }
+}
+
 function randomNumber () {
     var min = -100;
     var max = 100;
@@ -14,6 +23,7 @@ function randomPosition () {
 
 function moveItem () {
     script.item.getTransform().setWorldPosition(randomPosition());
+    birdsTapped++;
 }
 
 // Bind the function to the touch event.

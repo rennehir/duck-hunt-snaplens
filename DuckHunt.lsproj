@@ -1,7 +1,7 @@
 {
     "lens_id": "",
     "version": "0",
-    "lastChanged": "1519839113298",
+    "lastChanged": "1519843960630",
     "preview": "icon.png",
     "isReadOnly": "false",
     "studioVersion": {
@@ -460,7 +460,6 @@
         "SceneTreeUiComponent": {
             "collapsedList": [
                 [
-                    "1509391488324938:106424",
                     "1509391488397727:106472",
                     "1509391702624690:120157",
                     "1509391767906728:124221",
@@ -481,8 +480,7 @@
         "InspectorUiComponent": {
             "collapsedList": [
                 [
-                    "1508547645006260:316938",
-                    "1509391488463208:107288"
+                    "1508547645006260:316938"
                 ]
             ]
         }
@@ -1575,13 +1573,117 @@
                     "subtype": "0"
                 },
                 {
-                    "resId": "263",
-                    "uid": "1519838634332826:204331",
-                    "name": "\/Resources\/Resource263.js",
+                    "resId": "266",
+                    "uid": "1519843315308855:172469",
+                    "name": "\/Resources\/Resource266.mesh",
+                    "sourceFilePath": "\/Users\/anton.krasnokutskiy\/build-Studio3D-Desktop_Qt_5_8_0_clang_64bit-Debug\/x64\/products\/LensStudio.app\/Contents\/MacOS\/\/..\/Resources\/Studio3DResources.bundle\/\/\/meshes\/Box.mesh",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "267",
+                    "uid": "1519843317638502:174690",
+                    "name": "\/Resources\/Resource267.js",
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1",
                     "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "268",
+                    "uid": "1519843482738536:184022",
+                    "name": "Orthographic Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "271",
+                    "uid": "1519843511949571:188609",
+                    "name": "\/Resources\/Resource271.png",
+                    "sourceFilePath": "\/Users\/renne\/Downloads\/five.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "272",
+                    "uid": "1519843512152518:188626",
+                    "name": "\/Resources\/Resource272.png",
+                    "sourceFilePath": "\/Users\/renne\/Downloads\/four.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "273",
+                    "uid": "1519843512318256:188643",
+                    "name": "\/Resources\/Resource273.png",
+                    "sourceFilePath": "\/Users\/renne\/Downloads\/one.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "274",
+                    "uid": "1519843512463511:188660",
+                    "name": "\/Resources\/Resource274.png",
+                    "sourceFilePath": "\/Users\/renne\/Downloads\/three.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "275",
+                    "uid": "1519843512579156:188677",
+                    "name": "\/Resources\/Resource275.png",
+                    "sourceFilePath": "\/Users\/renne\/Downloads\/two.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "277",
+                    "uid": "1519843750833911:194789",
+                    "name": "Orthographic Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "280",
+                    "uid": "1519843947289404:219321",
+                    "name": "\/Resources\/Resource280",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "281",
+                    "uid": "1519843947290323:219333",
+                    "name": "\/Resources\/Resource281.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
                     "subtype": "0"
                 }
             ]
@@ -1628,12 +1730,13 @@
                 "37": "1509391488454895:107198",
                 "38": "1509391488456473:107220",
                 "39": "1509391488458079:107242",
-                "40": "1509391488459986:107264"
+                "40": "1509391488459986:107264",
+                "41": "1519843315300519:172427"
             }
         },
         "LayerComponent": {
             "nextLayerId": "2",
-            "showOrthographicLayer": "false",
+            "showOrthographicLayer": "true",
             "layersInfo": [
                 {
                     "layerId": "0",
@@ -1675,8 +1778,8 @@
                                 "extension": "js"
                             },
                             {
-                                "name": "Move",
-                                "resourceId": "263",
+                                "name": "Script",
+                                "resourceId": "267",
                                 "extension": "js"
                             }
                         ]
@@ -2131,9 +2234,72 @@
                             }
                         ],
                         "resources": ""
+                    },
+                    {
+                        "name": "Numbers",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "five",
+                                "resourceId": "271",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "four",
+                                "resourceId": "272",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "one",
+                                "resourceId": "273",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "three",
+                                "resourceId": "274",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "two",
+                                "resourceId": "275",
+                                "extension": "png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Unlit Textures",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "Base",
+                                "resourceId": "281",
+                                "extension": "png"
+                            }
+                        ]
                     }
                 ],
-                "resources": ""
+                "resources": [
+                    {
+                        "name": "Box",
+                        "resourceId": "266",
+                        "extension": "mesh"
+                    },
+                    {
+                        "name": "Orthographic Camera Output",
+                        "resourceId": "268",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Orthographic Camera Output_2",
+                        "resourceId": "277",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Unlit",
+                        "resourceId": "280",
+                        "extension": ""
+                    }
+                ]
             },
             "publicAssets": [
                 {
@@ -2169,8 +2335,36 @@
                     "path": "Textures\/echopark_spec.png"
                 },
                 {
-                    "id": "263",
-                    "path": "Scripts\/Move.js"
+                    "id": "266",
+                    "path": "Box.mesh"
+                },
+                {
+                    "id": "267",
+                    "path": "Scripts\/Script.js"
+                },
+                {
+                    "id": "271",
+                    "path": "Numbers\/five.png"
+                },
+                {
+                    "id": "272",
+                    "path": "Numbers\/four.png"
+                },
+                {
+                    "id": "273",
+                    "path": "Numbers\/one.png"
+                },
+                {
+                    "id": "274",
+                    "path": "Numbers\/three.png"
+                },
+                {
+                    "id": "275",
+                    "path": "Numbers\/two.png"
+                },
+                {
+                    "id": "281",
+                    "path": "Unlit Textures\/Base.png"
                 }
             ]
         }
