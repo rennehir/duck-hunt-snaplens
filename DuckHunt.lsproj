@@ -1,7 +1,7 @@
 {
     "lens_id": "",
     "version": "0",
-    "lastChanged": "1519845345262",
+    "lastChanged": "1522097931161",
     "preview": "icon.png",
     "isReadOnly": "false",
     "studioVersion": {
@@ -398,6 +398,10 @@
                         "Chick_FBX [REMOVE_ME]",
                         "Animations",
                         "right_wing_05_JNT_2"
+                    ],
+                    [
+                        "Chick_FBX [REMOVE_ME]",
+                        "Materials"
                     ],
                     [
                         "Chick_FBX [REMOVE_ME]",
@@ -1603,56 +1607,6 @@
                     "subtype": "1"
                 },
                 {
-                    "resId": "271",
-                    "uid": "1519843511949571:188609",
-                    "name": "\/Resources\/Resource271.png",
-                    "sourceFilePath": "\/Users\/renne\/Downloads\/five.png",
-                    "additionalProperties": "",
-                    "flags": "1",
-                    "type": "1",
-                    "subtype": "0"
-                },
-                {
-                    "resId": "272",
-                    "uid": "1519843512152518:188626",
-                    "name": "\/Resources\/Resource272.png",
-                    "sourceFilePath": "\/Users\/renne\/Downloads\/four.png",
-                    "additionalProperties": "",
-                    "flags": "1",
-                    "type": "1",
-                    "subtype": "0"
-                },
-                {
-                    "resId": "273",
-                    "uid": "1519843512318256:188643",
-                    "name": "\/Resources\/Resource273.png",
-                    "sourceFilePath": "\/Users\/renne\/Downloads\/one.png",
-                    "additionalProperties": "",
-                    "flags": "1",
-                    "type": "1",
-                    "subtype": "0"
-                },
-                {
-                    "resId": "274",
-                    "uid": "1519843512463511:188660",
-                    "name": "\/Resources\/Resource274.png",
-                    "sourceFilePath": "\/Users\/renne\/Downloads\/three.png",
-                    "additionalProperties": "",
-                    "flags": "1",
-                    "type": "1",
-                    "subtype": "0"
-                },
-                {
-                    "resId": "275",
-                    "uid": "1519843512579156:188677",
-                    "name": "\/Resources\/Resource275.png",
-                    "sourceFilePath": "\/Users\/renne\/Downloads\/two.png",
-                    "additionalProperties": "",
-                    "flags": "1",
-                    "type": "1",
-                    "subtype": "0"
-                },
-                {
                     "resId": "277",
                     "uid": "1519843750833911:194789",
                     "name": "Orthographic Camera Output",
@@ -1711,9 +1665,29 @@
                     "subtype": "0"
                 },
                 {
-                    "resId": "285",
-                    "uid": "1519844862221857:17741",
-                    "name": "\/Resources\/Resource284",
+                    "resId": "289",
+                    "uid": "1522091589321159:17953",
+                    "name": "\/Resources\/Resource289",
+                    "sourceFilePath": "\/var\/folders\/3b\/nkgbtyld51q1hw9zhcd2vn2c0000gn\/T\/Lens Studio-5akgwo\/animation.t3d",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "290",
+                    "uid": "1522092338081786:22839",
+                    "name": "\/Resources\/Resource290",
+                    "sourceFilePath": "\/var\/folders\/3b\/nkgbtyld51q1hw9zhcd2vn2c0000gn\/T\/Lens Studio-1aejLN\/animation.t3d",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "292",
+                    "uid": "1522093629762022:147929",
+                    "name": "\/Resources\/Resource292",
                     "sourceFilePath": "",
                     "additionalProperties": {
                         "pass_source": [
@@ -1725,9 +1699,19 @@
                     "subtype": "0"
                 },
                 {
-                    "resId": "286",
-                    "uid": "1519844865183397:20103",
-                    "name": "\/Resources\/Resource284",
+                    "resId": "293",
+                    "uid": "1522094318551405:162094",
+                    "name": "\/Resources\/Resource293.png",
+                    "sourceFilePath": "\/Users\/renne\/Desktop\/result.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "295",
+                    "uid": "1522094381038544:162250",
+                    "name": "\/Resources\/Resource295",
                     "sourceFilePath": "",
                     "additionalProperties": {
                         "pass_source": [
@@ -1739,9 +1723,9 @@
                     "subtype": "0"
                 },
                 {
-                    "resId": "287",
-                    "uid": "1519845300591187:68311",
-                    "name": "\/Resources\/Resource284",
+                    "resId": "297",
+                    "uid": "1522094607078755:164941",
+                    "name": "\/Resources\/Resource297",
                     "sourceFilePath": "",
                     "additionalProperties": {
                         "pass_source": [
@@ -1753,17 +1737,37 @@
                     "subtype": "0"
                 },
                 {
-                    "resId": "288",
-                    "uid": "1519845303774800:70717",
-                    "name": "\/Resources\/Resource284",
+                    "resId": "313",
+                    "uid": "1522096453221143:293070",
+                    "name": "\/Resources\/Resource313.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "318",
+                    "uid": "1522097738795028:342935",
+                    "name": "\/Resources\/Resource318",
                     "sourceFilePath": "",
                     "additionalProperties": {
                         "pass_source": [
                             ""
                         ]
                     },
-                    "flags": "3",
+                    "flags": "1",
                     "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "319",
+                    "uid": "1522097738795743:342947",
+                    "name": "\/Resources\/Resource319.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
                     "subtype": "0"
                 }
             ]
@@ -1815,10 +1819,7 @@
                 "42": "1519844539002349:260311",
                 "43": "1519844539098296:260409",
                 "44": "1519844539104255:260413",
-                "45": "1519844862221660:17731",
-                "46": "1519844865183102:20093",
-                "47": "1519845300590899:68301",
-                "48": "1519845303774623:70707"
+                "45": "1522093629755853:147910"
             }
         },
         "LayerComponent": {
@@ -2323,43 +2324,22 @@
                         "resources": ""
                     },
                     {
-                        "name": "Numbers",
-                        "groups": "",
-                        "resources": [
-                            {
-                                "name": "five",
-                                "resourceId": "271",
-                                "extension": "png"
-                            },
-                            {
-                                "name": "four",
-                                "resourceId": "272",
-                                "extension": "png"
-                            },
-                            {
-                                "name": "one",
-                                "resourceId": "273",
-                                "extension": "png"
-                            },
-                            {
-                                "name": "three",
-                                "resourceId": "274",
-                                "extension": "png"
-                            },
-                            {
-                                "name": "two",
-                                "resourceId": "275",
-                                "extension": "png"
-                            }
-                        ]
-                    },
-                    {
                         "name": "Unlit Textures",
                         "groups": "",
                         "resources": [
                             {
                                 "name": "Base",
                                 "resourceId": "281",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Base_3",
+                                "resourceId": "319",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Base_2",
+                                "resourceId": "313",
                                 "extension": "png"
                             }
                         ]
@@ -2389,6 +2369,26 @@
                     {
                         "name": "Orthographic Camera Output_3",
                         "resourceId": "282",
+                        "extension": ""
+                    },
+                    {
+                        "name": "counter",
+                        "resourceId": "290",
+                        "extension": ""
+                    },
+                    {
+                        "name": "timer",
+                        "resourceId": "289",
+                        "extension": ""
+                    },
+                    {
+                        "name": "result",
+                        "resourceId": "293",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "Unlit_2",
+                        "resourceId": "318",
                         "extension": ""
                     }
                 ]
@@ -2435,28 +2435,28 @@
                     "path": "Scripts\/Script.js"
                 },
                 {
-                    "id": "271",
-                    "path": "Numbers\/five.png"
-                },
-                {
-                    "id": "272",
-                    "path": "Numbers\/four.png"
-                },
-                {
-                    "id": "273",
-                    "path": "Numbers\/one.png"
-                },
-                {
-                    "id": "274",
-                    "path": "Numbers\/three.png"
-                },
-                {
-                    "id": "275",
-                    "path": "Numbers\/two.png"
-                },
-                {
                     "id": "281",
                     "path": "Unlit Textures\/Base.png"
+                },
+                {
+                    "id": "289",
+                    "path": "timer"
+                },
+                {
+                    "id": "290",
+                    "path": "counter"
+                },
+                {
+                    "id": "293",
+                    "path": "result.png"
+                },
+                {
+                    "id": "313",
+                    "path": "Unlit Textures\/Base_2.png"
+                },
+                {
+                    "id": "319",
+                    "path": "Unlit Textures\/Base_3.png"
                 }
             ]
         }
