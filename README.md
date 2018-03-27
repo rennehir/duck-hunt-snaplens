@@ -68,8 +68,16 @@ Then rename the imported resource as ```timer``` or something else more descript
 
 10. Repeat steps 4 - 9 with ```counter```
 
-11. Repeat steps 4 - 9 with ```result```
+11. Again, add a new Sprite, rename it to ```background```. Set Material -> Add New -> Unlit
 
-12. Repeat steps 4 - 9, but rename the Sprite as ```resultNumber``` and add ```counter``` as BaseTex
+12. Highlight ```Unlit``` from Resources and change BaseColor to green or whatever you like.
 
-13. Again, add a new Sprite
+13. Select ```background``` again, resize and reposition.
+
+14. Repeat steps 4 - 9 with ```result```
+
+15. Repeat steps 4 - 9, but rename the Sprite as ```resultNumber``` and add ```counter``` as BaseTex
+
+![Screenshot - Transform](https://raw.githubusercontent.com/rennehir/duck-hunt-snaplens/master/Resources/screenshots/screenshot9.png)
+
+Now, you're project should look something like this.
