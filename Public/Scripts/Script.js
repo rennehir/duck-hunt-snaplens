@@ -7,10 +7,23 @@
 // @input Component.SpriteVisual resultBg
 
 var counterControl = script.counter.mainPass.baseTex.control;
-var resControl = script.result.mainPass.baseTex.control;
 var timerControl = script.timer.mainPass.baseTex.control;
 var birdsTapped = 0;
 
+// Hide results
+script.resultText.enabled = false;
+script.result.enabled = false;
+script.resultBg.enabled = false;
+
+// Set counter to zero
+counterControl.pauseAtFrame(0);
+timerControl.pauseAtFrame(0);
+
+// Bind the function to the touch event.
+var touchEvent = script.createEvent("TapEvent");
+touchEvent.bind(moveItem);
+
+// Bind the timeout function to delayed event.
 var timeoutEvent = script.createEvent("DelayedCallbackEvent");
 timeoutEvent.bind(function(eventData) {
     timerControl.pause();
@@ -25,19 +38,6 @@ timeoutEvent.bind(function(eventData) {
     script.counter.enabled = false;
     script.item.enabled = false;
 });
-
-// Hide results
-script.resultText.enabled = false;
-script.result.enabled = false;
-script.resultBg.enabled = false;
-
-// Bind the function to the touch event.
-var touchEvent = script.createEvent("TapEvent");
-touchEvent.bind(moveItem);
-
-// Set counter to zero
-counterControl.pauseAtFrame(0);
-timerControl.pauseAtFrame(0);
 
 // Move bird, increase counter and show the amount of tapped birds
 function moveItem () {

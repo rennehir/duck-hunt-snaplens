@@ -1,7 +1,7 @@
 {
-    "lens_id": "",
+    "lens_id": "1e69df97-e8cc-4c52-b770-031c5d0fa639",
     "version": "0",
-    "lastChanged": "1522097931161",
+    "lastChanged": "1522155817236",
     "preview": "icon.png",
     "isReadOnly": "false",
     "studioVersion": {
@@ -479,7 +479,7 @@
             "hints": [
                 "lens_hint_look_around"
             ],
-            "lens": "Look Around"
+            "lens": "Bird Hunter"
         },
         "InspectorUiComponent": {
             "collapsedList": [
@@ -2333,13 +2333,13 @@
                                 "extension": "png"
                             },
                             {
-                                "name": "Base_3",
-                                "resourceId": "319",
+                                "name": "Base_2",
+                                "resourceId": "313",
                                 "extension": "png"
                             },
                             {
-                                "name": "Base_2",
-                                "resourceId": "313",
+                                "name": "Base_3",
+                                "resourceId": "319",
                                 "extension": "png"
                             }
                         ]
@@ -2372,13 +2372,13 @@
                         "extension": ""
                     },
                     {
-                        "name": "counter",
-                        "resourceId": "290",
+                        "name": "timer",
+                        "resourceId": "289",
                         "extension": ""
                     },
                     {
-                        "name": "timer",
-                        "resourceId": "289",
+                        "name": "counter",
+                        "resourceId": "290",
                         "extension": ""
                     },
                     {
