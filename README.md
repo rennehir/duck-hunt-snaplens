@@ -12,11 +12,64 @@ Snapchat Lens created with Lens Studio. You will hunt birds by clicking them, an
 
 Once Lens Studio is installed, open it and create a new project from template ```Look Around```
 
-![Screenshot - new project](https://raw.githubusercontent.com/rennehir/duck-hunt-snaplens/master/resources/screenshots/screenshot1.png)
+![Screenshot - new project](https://raw.githubusercontent.com/rennehir/duck-hunt-snaplens/master/Resources/screenshots/screenshot1.png)
 
 
-### Let's get started!
+### Adding resources
 
 1. Remove unnecessary birds
 
-![Screenshot - remove birds](https://raw.githubusercontent.com/rennehir/duck-hunt-snaplens/master/resources/screenshots/screenshot2.png)
+![Screenshot - remove birds](https://raw.githubusercontent.com/rennehir/duck-hunt-snaplens/master/Resources/screenshots/screenshot2.png)
+
+
+2. Add timer resource
+
+Resources -> Add New -> Texture -> Animated from files...
+
+![Screenshot - Add timer](https://raw.githubusercontent.com/rennehir/duck-hunt-snaplens/master/Resources/screenshots/screenshot3.png)
+
+![Screenshot - Add timer](https://raw.githubusercontent.com/rennehir/duck-hunt-snaplens/master/Resources/screenshots/screenshot4.png)
+
+![Screenshot - Add timer](https://raw.githubusercontent.com/rennehir/duck-hunt-snaplens/master/Resources/screenshots/screenshot5.png)
+
+Then rename the imported resource as ```timer``` or something else more descriptive.
+
+
+3. Repeat the previous step, but import counter instead of timer
+
+4. Resources -> Add New -> Import files... -> ```result.png```
+
+
+### Setting up the billboard
+
+1. Objects -> Add New -> Billboard
+
+![Screenshot - Add billboard](https://raw.githubusercontent.com/rennehir/duck-hunt-snaplens/master/Resources/screenshots/screenshot6.png)
+
+2. Remove ```2D Sprite 1``` under ```Effects```
+
+3. Highlight ```Effects```
+
+4. Object -> Add New -> Sprite
+
+5. Rename the added Sprite to ```timer```
+
+6. Highlight ```timer``` and from the bottom-right section under Sprite options click the BaseTex property (should say ```Default```)
+
+7. Choose ```timer```
+
+![Screenshot - Set timer texture](https://raw.githubusercontent.com/rennehir/duck-hunt-snaplens/master/Resources/screenshots/screenshot7.png)
+
+8. On top of the bottom-right section change ```Layers``` from ```Default``` to ```Orthographic```
+
+9. Under the transform section, adjust position and scale accordingly.
+
+![Screenshot - Transform](https://raw.githubusercontent.com/rennehir/duck-hunt-snaplens/master/Resources/screenshots/screenshot8.png)
+
+10. Repeat steps 4 - 9 with ```counter```
+
+11. Repeat steps 4 - 9 with ```result```
+
+12. Repeat steps 4 - 9, but rename the Sprite as ```resultNumber``` and add ```counter``` as BaseTex
+
+13. Again, add a new Sprite
